@@ -1,0 +1,11 @@
+{
+  "name": "imbrace-translations-local",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Merge per-domain locale JSON files into a single file per language (en, zh, cn)",
+  "scripts": {
+    "build": "node builder.mjs",
+    "watch": "node watch.mjs"
+  }
+}
