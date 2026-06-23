@@ -1225,6 +1225,8 @@
     "validation_color_required": "Please provide color",
     "validation_team_role_required": "Please provide team role",
     "validation_team_name_required": "Please provide team name",
+    "validation_team_name_min_length": "Team name is too short",
+    "validation_team_name_max_length": "Team name cannot exceed 100 characters",
     "validation_team_name_duplicated": "Team name already exists",
     "validation_contact_information_required": "Please provide contact information",
     "validation_language_required": "Please provide language",

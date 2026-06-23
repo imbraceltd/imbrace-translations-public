@@ -1205,6 +1205,8 @@
     "validation_color_required": "请提供颜色",
     "validation_team_role_required": "请提供团队权限",
     "validation_team_name_required": "请提供团队名称",
+    "validation_team_name_min_length": "团队名称太短",
+    "validation_team_name_max_length": "团队名称不能超过100个字符",
     "validation_team_name_duplicated": "团队名称已存在",
     "validation_language_required": "请提供语言",
     "validation_gender_required": "请提供性别",

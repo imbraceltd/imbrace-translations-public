@@ -107,6 +107,8 @@
     "validation_color_required": "請提供顏色",
     "validation_team_role_required": "請提供團隊權限",
     "validation_team_name_required": "請提供團隊名稱",
+    "validation_team_name_min_length": "團隊名稱太短",
+    "validation_team_name_max_length": "團隊名稱不能超過100個字元",
     "validation_team_name_duplicated": "團隊名稱已存在",
     "validation_language_required": "請提供語言",
     "validation_gender_required": "請提供性別",
